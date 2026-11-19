@@ -1,0 +1,7 @@
+captures/
+datasets/
+outputs/
+checkpoints/
+__pycache__/
+*.pyc
+*.log
